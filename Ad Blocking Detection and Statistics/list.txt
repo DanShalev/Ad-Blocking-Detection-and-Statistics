@@ -1,0 +1,13 @@
+NEW USER -> CREATE SESSION HASH VIA PASSWORD
+SESSION HASH, COOKIE IS REGENERATED WHEN LOGOUT HAPPENS
+
+bucket_a images! just temproiary
+
+disable files tree in apche!
+
+
+need updating for server FTP:
+headers.php
+php functions.php
+db connect.db
+daily visitors

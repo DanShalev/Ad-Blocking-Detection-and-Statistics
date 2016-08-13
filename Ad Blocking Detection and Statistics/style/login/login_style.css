@@ -1,0 +1,26 @@
+/*login page*/
+.login-screen {
+    background: #485BBB
+    url("images/lock-screen.jpg") no-repeat fixed left bottom / cover;
+}
+
+#username-input:focus {
+    padding-left: 15px;
+}
+
+#time {
+    cursor: default;
+}
+
+.disable_select {
+    -webkit-user-select: none;
+}
+
+#bottom_text {
+    margin-top: 50px;
+    margin-left: 100px;
+    color: #e6e9eb;
+    font-size: 16px;
+    position: relative;
+    right: 50px;
+}
